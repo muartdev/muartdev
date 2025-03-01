@@ -9,7 +9,7 @@ Teknolojiler
 
 Mobil: Swift, React Native  
 Frontend: HTML, CSS, JavaScript, React.js  
-Backend: Node.js, Express.js, MongoDB, SQL  
+Backend: Node.js, SQL  
 
 ---
 
