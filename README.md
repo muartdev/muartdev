@@ -1,11 +1,6 @@
-Merhaba, ben Muartdev!
-
-Bilgisayar mühendisliği öğrencisiyim ve iOS geliştirme ile ilgileniyorum.  
-Swift, React ve Node.js teknolojileri üzerine çalışıyorum.  
+Merhaba, ben Murat
 
 ---
-
-Teknolojiler
 
 Mobil: Swift, React Native  
 Frontend: HTML, CSS, JavaScript, React.js  
