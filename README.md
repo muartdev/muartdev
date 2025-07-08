@@ -41,17 +41,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muratusername&show_icons=true&theme=radical" alt="Murat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muartdev&show_icons=true&theme=radical" alt="Murat's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muratusername&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muartdev&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ### 🧩 Featured Projects
 
-- 🧾 [FinanceTrick](https://github.com/yourusername/financetrick) – iOS app for personal finance tracking
-- 🛒 [Smart Shopping List](https://github.com/yourusername/shoppinglist-ai) – Web app with category-based suggestions and discount tracking
+- 🧾 [FinanceTrick](https://github.com/muartdev/financetrick) – iOS app for personal finance tracking
+- 🛒 [Smart Shopping List](https://github.com/muartdev/shoppinglist-ai) – Web app with category-based suggestions and discount tracking
 
 ---
 
