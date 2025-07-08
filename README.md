@@ -4,7 +4,7 @@
   👨‍💻 Computer Engineering Student <br />
   🌱 Currently learning: Swift, React, iOS Development <br />
   🛠️ Building: Personal Finance App & Smart Shopping List <br />
-  📫 Contact me: your-email@example.com
+  📫 Contact me: @gmail.com
 </p>
 
 ---
@@ -50,8 +50,8 @@
 
 ### 🧩 Featured Projects
 
-- 🧾 [FinanceTrick](https://github.com/muartdev/financetrick) – iOS app for personal finance tracking
-- 🛒 [Smart Shopping List](https://github.com/muartdev/shoppinglist-ai) – Web app with category-based suggestions and discount tracking
+- 🧾 [FinanceTrick] – iOS app for personal finance tracking
+- 🛒 [Smart Shopping List] – Web app with category-based suggestions and discount tracking
 
 ---
 
@@ -66,7 +66,7 @@
 
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=about.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/muartdev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=about.me&logoColor=white)]
 
