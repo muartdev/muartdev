@@ -1,7 +1,7 @@
 # Hi, I'm Murat 👋
 
 I'm a Computer Engineering student who loves building clean and useful things with code.  
-Currently learning **Swift**, **React**, and **iOS development**.  
+Currently learning **Swift**, **React**.
 Exploring full-stack and mobile app development.
 
 ---
@@ -10,7 +10,6 @@ Exploring full-stack and mobile app development.
 
 - Swift, React, JavaScript, TypeScript  
 - Next.js, Tailwind CSS, Node.js  
-- Git, GitHub, Xcode, VS Code
 
 ---
 
