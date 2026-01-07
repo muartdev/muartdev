@@ -1,7 +1,6 @@
 # Hello World, I'm Murat
 
 I'm a Computer Engineering student who loves building clean and useful things with code. 
-Exploring mobile app development.
 
 ---
 
