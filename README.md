@@ -25,6 +25,11 @@ Community platform for Voge motorcycle owners in Turkey.
 
 `Next.js` `React` `Vercel` `Google Sheets API`
 
+### Portfolio · [muartdev.github.io](https://muartdev.github.io)
+Personal CV site with dark mode and EN/TR language toggle.
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
 ---
 
 ## Tech Stack
