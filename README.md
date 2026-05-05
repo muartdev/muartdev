@@ -1,49 +1,51 @@
-# Hello World, I'm Murat
+# Hi, I'm Murat 👋
 
-Computer Engineering student building full-stack products — from iOS apps to web platforms, all live and in production.
+Computer Engineering student building real full-stack products — from iOS apps to modern web platforms.
 
----
+I enjoy turning ideas into production-ready products with clean UI, practical functionality, and modern tools.
 
-## Projects
+## Featured Projects
 
-### MindShelf · [mindshelf-web.pages.dev](https://mindshelf-web.pages.dev)
-Bookmark manager with an iOS app and a companion web app — both in production.
-- iOS app with **in-app purchases & subscriptions** via StoreKit 2
-- Cross-device sync with **Supabase** (auth + real-time database)
-- Web app deployed to **Cloudflare Pages** with metadata auto-fetch (microlink, noembed)
-- Free tier limits, paywall, restore purchases — full monetization flow
+### MindShelf
+Bookmark manager with a web app and iOS app, both in production.
 
-`Swift` `SwiftUI` `StoreKit 2` `Supabase` `React` `Vite` `Cloudflare Pages`
+- iOS app built with **Swift, SwiftUI, StoreKit 2, SwiftData**
+- Cross-device sync with **Supabase**
+- Web app built with **React + Vite**
+- Metadata auto-fetch with **Microlink** and **Noembed**
+- Live: [mindshelf-web.pages.dev](https://mindshelf-web.pages.dev)
 
----
-
-### VogeRidersTR · [vogeriderstr.com](https://www.vogeriderstr.com)
+### VogeRidersTR
 Community platform for Voge motorcycle owners in Turkey.
-- Built and deployed with **Vercel** + custom domain setup
-- **Google Sheets** used as a CMS for dynamic content
-- AI-assisted content and development workflow
 
-`Next.js` `React` `Vercel` `Google Sheets API`
+- Built with **Next.js** and **React**
+- Deployed on **Vercel**
+- Dynamic content powered by **Google Sheets API**
+- Live: [vogeriderstr.com](https://vogeriderstr.com)
 
-### Portfolio · [muartdev.github.io](https://muartdev.github.io)
-Personal CV site with dark mode and EN/TR language toggle.
+### Portfolio
+Personal portfolio website.
 
-`HTML` `CSS` `JavaScript` `GitHub Pages`
-
----
+- Built with **HTML, CSS, JavaScript**
+- Live: [muartdev.github.io](https://muartdev.github.io)
 
 ## Tech Stack
 
-| Area | Technologies |
-|------|-------------|
-| iOS | Swift, SwiftUI, StoreKit 2, SwiftData |
-| Frontend | React, Next.js, HTML, CSS, JavaScript |
-| Backend / DB | Supabase, Google Sheets API |
-| Deployment | Cloudflare Pages, Vercel, GitHub Pages |
-| Tools | Git, Xcode, AI-assisted dev |
+- **Frontend:** React, Next.js, Vite, HTML, CSS, JavaScript
+- **Mobile:** Swift, SwiftUI, StoreKit 2, SwiftData
+- **Backend / DB:** Supabase, Google Sheets API
+- **Deployment:** Vercel, Cloudflare Pages, GitHub Pages
+- **Tools:** Git, Xcode, Figma, AI-assisted development
 
----
+## Currently
+
+- Building full-stack side projects
+- Improving UI/UX and product design skills
+- Exploring AI-assisted development workflows
 
 ## Contact
 
-[muartmac@gmail.com](mailto:muartmac@gmail.com) · [github.com/muartdev](https://github.com/muartdev) · [x.com/muartdev](https://x.com/muartdev)
+- Email: [muratmac@gmail.com](mailto:muratmac@gmail.com)
+- GitHub: [github.com/muartdev](https://github.com/muartdev)
+- Portfolio: [muartdev.github.io](https://muartdev.github.io)
+- X: [x.com/muartdev](https://x.com/muartdev)
