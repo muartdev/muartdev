@@ -123,18 +123,10 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muartdev&show_icons=true&hide_border=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muartdev&layout=compact&hide_border=true&theme=default" height="165" />
-</p>
-
----
 
 ## Contact
 
-- **Email:** [muratmac@gmail.com](mailto:muratmac@gmail.com)
+- **Email:** [muartmac@gmail.com](mailto:muratmac@gmail.com)
 - **GitHub:** [github.com/muartdev](https://github.com/muartdev)
 - **Portfolio:** [muartdev.github.io](https://muartdev.github.io)
 - **X / Twitter:** [x.com/muartdev](https://x.com/muartdev)
