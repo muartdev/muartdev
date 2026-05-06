@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Murat 👋</h1>
 
 <p align="center">
-  Computer Engineering student building real full-stack products — from iOS apps to modern web platforms.
+  Product Engineer building real full-stack products — from iOS apps to modern web platforms.
 </p>
 
 <p align="center">
