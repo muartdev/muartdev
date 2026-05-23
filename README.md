@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Murat 👋</h1>
 
 <p align="center">
-  Product Engineer building real full-stack products — from iOS apps to modern web platforms.
+ Full-Stack Developer building real full-stack products — from iOS apps to modern web platforms.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ## About Me
 
-- 🎓 Computer Engineer
+- 🎓 Full-Stack Developer
 - 💻 Building real products for web, mobile, and businesses
 - 🚀 Interested in full-stack development, product design, and startup-style building
 - 🧠 Working with modern tools to turn ideas into production-ready solutions
