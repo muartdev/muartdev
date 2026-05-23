@@ -19,7 +19,7 @@
 
 ## About Me
 
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineer
 - 💻 Building real products for web, mobile, and businesses
 - 🚀 Interested in full-stack development, product design, and startup-style building
 - 🧠 Working with modern tools to turn ideas into production-ready solutions
